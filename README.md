@@ -1,2 +1,2 @@
 # CausationLabeling
-Hierarchical causation labeling with sparse autoencoding
+Hierarchical causation labeling with sparse encoding
